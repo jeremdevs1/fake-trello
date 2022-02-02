@@ -1,0 +1,12 @@
+{
+  "name": "fake-trello",
+  "version": "1.0.0",
+  "description": "this is a fake trello",
+  "main": "app.js",
+  "repository": "https://github.com/Jeremdevs/fake-trello.git",
+  "author": "jeremdevs",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
